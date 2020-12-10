@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="humanZoneColor">#C8A2C8</color>
+    <color name="compZoneColor">#90ee90</color>
+    <color name="gameBackGround">#89CFF0</color>
+    <color name="trumpBackground">#ffb6c1</color>
+    <color name="quitSaveBackground">#f96167</color>
+    <color name="plainWhite">#ffffff</color>
+
+</resources>
